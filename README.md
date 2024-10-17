@@ -10,5 +10,6 @@
     參考的文獻有類似的效果或新發現，以及從機器學習的模型檢測哪個組別更顯著。
 ## 分析方法：
     1. Hayes Process Macro(中介分析)
-    2.
+    2. Multivariate_Analysis(多變數迴歸分析)
     3. Random Forest & XGBoost(機器學習)
+## 簡單展示結果： 
