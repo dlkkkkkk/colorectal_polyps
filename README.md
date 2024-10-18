@@ -13,5 +13,5 @@
     1. Multivariate_Analysis(多變數迴歸分析)
     2. Random Forest & XGBoost(機器學習)
 ## 簡單展示結果： 
-![示意圖一](## 示意圖一.png)
+![示意圖一](示意圖一.png)
 ![示意圖二](示意圖二.png)
